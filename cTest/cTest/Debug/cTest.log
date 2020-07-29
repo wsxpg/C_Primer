@@ -1,4 +1,4 @@
-﻿生成启动时间为 2020/7/29 21:58:34。
+﻿生成启动时间为 2020/7/29 22:57:27。
      1>项目“D:\git_project\C_Primer\cTest\cTest\cTest.vcxproj”在节点 2 上(Build 个目标)。
      1>QtMsBuildNotFound:
          QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly.
@@ -8,4 +8,4 @@
 
 生成成功。
 
-已用时间 00:00:00.09
+已用时间 00:00:00.55
